@@ -2,7 +2,7 @@
 Trying to fix the problems that I created when I tried to fix the problems that I created when I............
 
 Data Analyst @Zomato
-SQL, Tableau, Power BI<br>Data Analysis<br>Excel, Power BI
+SQL, Tableau, Power BI<br>Data Analysis<br>Microsoft Excel
 
 
 ## 🌐 Socials:
