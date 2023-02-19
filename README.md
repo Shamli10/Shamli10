@@ -1,5 +1,6 @@
 # 💫 About Me:
-Trying to fix the problems that I created when I tried to fix the problems that I created when I..............
+Trying to fix the problems that I created when I tried to fix the problems that I created when I............
+
 Data Analyst @Zomato
 SQL, Tableau, Power BI<br>Data Analysis<br>Excel, Power BI
 
